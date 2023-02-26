@@ -1,6 +1,8 @@
 package dataTypes;
 
 public class ElseIfDemo {
+	
+	//this is an example of control statement
 
 	public static void main(String[] args) {
 		
