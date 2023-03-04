@@ -1,6 +1,7 @@
 package array;
 
 public class ArrayDemo {
+	// this an one dimentional array
 
 	public static void main(String[] args) {
 		String[] s = new String[3];
